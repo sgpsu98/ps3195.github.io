@@ -1,0 +1,41 @@
+---
+title: "The Web"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cerulean
+---
+
+# Welcome!
+
+<img src="image/giphy.gif" style="width:50%">
+
+# Background
+
+## School
+
+* I graduated from [University of Liverpool](https://www.liverpool.ac.uk/) in June, 2020. 
+
+<img src="image/Unviersity-Building.jpg" style="width:75%">
+
+* Now, I am a student in [Columbia University](https://www.columbia.edu/)
+
+<img src="image/cu.jpg" style="width:75%">
+
+
+## Major
+
+I was major in Applied Mathematics. By the way, I really hate proving things... :) 
+
+<img src="image/woo.jpg" style="width:75%">
+
+# Favorite games in 2020
+
+**Death Stranding**
+
+<img src="image/death-stranding.jpg" style="width:75%">
+
+**Red Dead Redemption 2**
+
+<img src="image/rd2.jpg" style="width:75%">

@@ -1,0 +1,44 @@
+---
+title: "About Me"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cerulean
+---
+
+# Personal Information
+
+* Name: Pengyuan Su
+* Address: Shijiazhuang, Hebei, China
+* Email: ps3195@columbia.edu
+
+# Education Background
+
+* 2020 -     , M.S. in Biostatistics, Columbia University, U.S.
+* 2018 - 2020, B.S. in Applied Mathematics, University of Liverpool, U.K.
+* 2016 - 2018, B.S. in Mathematics, Xi'an Jiaotong-Liverpool University, China
+
+# Professioal Experience
+
+* 2019, intern, China Merchants Bank (Shenzhen Branch)
+* 2018, intern, China Asset Management
+* 2017, intern, Hua Xia Bank CO., Ltd.
+
+# Volunteer Experience
+
+* September 2016 - January 2017
+
+* Team leader, Green Power Up Team, iGV Department, AIESEC
+
+* Bringing volunteers from all over the world to Suzhou, China to conduct environmental protection education in 15 primary and secondary schools in Suzhou.
+
+
+# Skills
+
+* R (Statistics)
+* Java
+
+# Related Links
+
+* [P8105](https://p8105.com/)
