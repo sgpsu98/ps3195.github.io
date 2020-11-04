@@ -33,11 +33,6 @@ output:
 * Bringing volunteers from all over the world to Suzhou, China to conduct environmental protection education in 15 primary and secondary schools in Suzhou.
 
 
-# Skills
-
-* R (Statistics)
-* Java
-
 # Related Links
 
 * [P8105](https://p8105.com/)
